@@ -40,6 +40,7 @@
         	<resource-file src="src/android/res/drawable-xxhdpi/sc_launcher_icon.png" target="res/drawable-xxhdpi/sc_launcher_icon.png"/>
 		<resource-file src="src/android/res/drawable-xhdpi/modoalarma.png" target="res/drawable-xhdpi/modoalarma.png"/>
         	<resource-file src="src/android/res/drawable-xxhdpi/modoalarma.png" target="res/drawable-xxhdpi/modoalarma.png"/>
+		<resource-file src="src/android/res/logo.png" target="res/screen/android/logo.png"/>
 		
 		<!--ANDROID 12+-->
 		<resource-file src="src/android/res/drawable/launcher_icon.png" target="app/src/main/res/drawable/launcher_icon.png"/>
@@ -54,8 +55,8 @@
         	<resource-file src="src/android/res/drawable-xxhdpi/sc_launcher_icon.png" target="app/src/main/res/drawable-xxhdpi/sc_launcher_icon.png"/>
 		<resource-file src="src/android/res/drawable-xhdpi/modoalarma.png" target="app/src/main/res/drawable-xhdpi/modoalarma.png"/>
         	<resource-file src="src/android/res/drawable-xxhdpi/modoalarma.png" target="app/src/main/res/drawable-xxhdpi/modoalarma.png"/>
-
-		<resource-file src="src/android/res/logo.png" target="res/screen/android/logo.png"/>
+		<resource-file src="src/android/res/logo.png" target="app/src/main/res/screen/android/logo.png"/>
+		
 		
 		<resource-file src="src/android/res/raw/beep.ogg" target="res/raw/beep.ogg"/>
 		<resource-file src="src/android/res/raw/modoalarma1.ogg" target="res/raw/modoalarma1.ogg"/>
