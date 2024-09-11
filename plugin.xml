@@ -67,5 +67,9 @@
 		<resource-file src="src/android/res/raw/modoalarma2.mp3" target="res/raw/alarma2.mp3"/>
 		<resource-file src="src/android/res/raw/modoalarma3.mp3" target="res/raw/alarma3.mp3"/>
 		<resource-file src="src/android/res/raw/modoalarma3.wav" target="res/raw/alarma.wav"/>
+
+		<!--HUAWEI-->
+		<resource-file src="src/android/res/raw/modoalarma3.mp3" target="app/src/main/res/raw/modoalarma3.mp3"/>
+		<resource-file src="src/android/res/raw/modoalarma3.wav" target="app/src/main/res/raw/modoalarma3.wav"/>
 	</platform>
 </plugin>
